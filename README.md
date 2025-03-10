@@ -1,0 +1,1 @@
+This is `r-primer` - a script that implements [prime-counting function](https://en.wikipedia.org/wiki/Prime-counting_function) using the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) algorithm then plots the results for the first 200 positive integers.
